@@ -18,11 +18,17 @@
 
 - Operation Systems : Linux Administration , Windows server
 
-- Version Control: GitHub , Git                                 
+- Version Control: GitHub , Git  
+- Automation Testing :Web with Selenium, Mobile with Appium , Api with Postman & Rest Assured
+- ISTQB certified  
+
+
+
+
 
 - Database Engines: MySQL, NoSQL
 
-- 
+- Manual Testing: Test case ,bug report with tool like jira 
 
 -------------------------------------
 
