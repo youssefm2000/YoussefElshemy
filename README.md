@@ -12,7 +12,7 @@
 - Scripting: Bash Shell 
 - Operation Systems : Linux Administration , Windows server
 - Version Control: GitHub , Git  
-- Automation Testing :Web with Selenium, Mobile with Appium , Api with Postman & Rest Assured
+- Automation Testing : Web with Selenium, Mobile with Appium , Api with Postman & Rest Assured
 - Performace Testing with JMeter
 - ISTQB certified  
 - Database Engines: MySQL, NoSQL
