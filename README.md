@@ -2,32 +2,19 @@
 
 -------------------------------------
 
-### Software Test Manual & Automation Engineer 
+### Software Test Manual & Automation & Performance Engineer 
 ### Software Test Engineer with expertise in automation Web & Mobile & Api and Manual Testing with Jira Tool and certified ISTQB®FL,i use CI/CD pipelines to run test cases parallel and Maven to run it with comand ,I can use docker & Cloud also in any project 
 
 ## Skills and Experience 
 
 - Containerization Tools : Docker, Kubernetes             
-
-
-
-
 - CI-CD Tools: Jenkins    
-
 - Scripting: Bash Shell 
-
 - Operation Systems : Linux Administration , Windows server
-
 - Version Control: GitHub , Git  
 - Automation Testing :Web with Selenium, Mobile with Appium , Api with Postman & Rest Assured
 - ISTQB certified  
-
-
-
-
-
 - Database Engines: MySQL, NoSQL
-
 - Manual Testing: Test case ,bug report with tool like jira 
 
 -------------------------------------
