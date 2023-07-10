@@ -34,4 +34,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=youssefm20)  
 
-![Profile views](https://gpvc.arturio.dev/youssefm2000)  
+ 
